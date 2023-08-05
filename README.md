@@ -5,7 +5,9 @@ This project aims to extract the word "psi" or "WIKAI" from images and determine
 The sample result is shown here:
 -------------------------------
 Recognized text for 'D:\github\image-text-extraction\images\image_1.png': tin st
+
 Recognized text for 'D:\github\image-text-extraction\rotated_images\image_1.png' : psi cila
+
 The rotation angle needed to extract word psi is 151 degree
 
 
@@ -13,8 +15,7 @@ The rotation angle needed to extract word psi is 151 degree
 ---------------------------------------------------------------------------------------------------
 ```bash
 python main.py
----------------------------------------------------------------------------------------------------
-
+```
 ## Table of Contents
 
 - [Installation](#installation)
