@@ -57,5 +57,5 @@ for img_fn in img_fns:
         recognized_text += text + " "
 
     # Print the complete recognized text for the current image
-    print(f"Recognized text for '{img_fn}': {recognized_text}")
+    print(f"Recognized text for '{img_fn}' : {recognized_text}")
     print("The rotation angle needed to extract word",recognized_text.split(" ")[0],"is",rotated_angle,"degree")
