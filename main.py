@@ -54,3 +54,5 @@ for img_fn in img_fns:
         print(f"The rotation angle needed to extract the word 'psi' is {rotation_angle} degrees")
     else:
         print("The word 'psi' was not successfully extracted in rotated images.")
+
+        # print
