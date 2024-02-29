@@ -3,7 +3,7 @@ import os
 import cv2
 import numpy as np
 from glob import glob
-
+# "test"
 # Function to rotate the image
 def rotate_image(image, angle):
     center = tuple(np.array(image.shape[1::-1]) / 2)
